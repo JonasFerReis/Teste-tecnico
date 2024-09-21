@@ -25,6 +25,6 @@ public class Fibonacci {
 
     int result = Arrays.binarySearch(fibonacci, searchNumber);
 
-    System.out.println(result >= 0 ? "Pertece" : "Não pertence");
+    System.out.println(result >= 0 ? "Pertence" : "Não pertence");
   }
 }
